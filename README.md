@@ -66,3 +66,8 @@ You can find all of this implemented in a single, readable script (`app.py`).
 This code is tested inside the IBM watsonx Lab environment.  
 If you run it locally, make sure to configure your watsonx credentials (API key, project_id, and model access).  
 Without valid credentials, the LLM and embedding models will not initialize.
+
+## 📸 Screenshot:
+<img width="1585" height="535" alt="QA Bot screenshot" src="https://github.com/user-attachments/assets/cfc52599-c67c-438a-9855-bb0a6587567b" />
+
+
